@@ -1,0 +1,11 @@
+[
+  {
+    "InquiryId": 1,
+    "RawText": "text",
+    
+  "description": "PIPE 20 wt. 0,625 API 5L X65 WITH COAT 3LPE",
+     
+    "Status": true,
+    "Timestamp": "2026-03-02 12:02:00"
+  }
+]

@@ -1,0 +1,23 @@
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Intelligent_SKU_Match_utility.exe.config
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Intelligent_SKU_Match_utility.exe
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Intelligent_SKU_Match_utility.pdb
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\FuzzySharp.dll
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.csproj.AssemblyReference.cache
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.csproj.CoreCompileInputs.cache
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intellig.29617369.Up2Date
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.exe
+C:\Users\rc\Desktop\arrowpipe\arrowpipe\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.pdb
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Intelligent_SKU_Match_utility.exe.config
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Intelligent_SKU_Match_utility.exe
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Intelligent_SKU_Match_utility.pdb
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\FuzzySharp.dll
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Newtonsoft.Json.dll
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\bin\Debug\Newtonsoft.Json.xml
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.csproj.AssemblyReference.cache
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.exe.config
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.csproj.CoreCompileInputs.cache
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intellig.29617369.Up2Date
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.exe
+D:\All Cylsys Project\Arrow Pipes\Intelligent_SKU_Match_utility\Intelligent_SKU_Match_utility\obj\Debug\Intelligent_SKU_Match_utility.pdb

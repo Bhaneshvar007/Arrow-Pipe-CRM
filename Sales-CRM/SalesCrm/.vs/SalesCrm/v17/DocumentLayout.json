@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\services\\dal\\dalaigeneratedsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:services\\dal\\dalaigeneratedsuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\models\\aigeneratedsuitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:models\\aigeneratedsuitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\controllers\\aigeneratedsuitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:controllers\\aigeneratedsuitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\services\\dal\\dalskumaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:services\\dal\\dalskumaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\models\\skumastermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:models\\skumastermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\services\\idal\\idalskumaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:services\\idal\\idalskumaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\controllers\\skumastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:controllers\\skumastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\services\\dal\\dalleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:services\\dal\\dalleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\commonhelpers\\dalservicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:commonhelpers\\dalservicehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\controllers\\attachmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:controllers\\attachmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|d:\\all cylsys project\\arrow pipes\\sales-crm\\salescrm\\services\\dal\\dalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A514A3-8369-499D-AA04-A7FDD1ABF372}|SalesCrm.csproj|solutionrelative:services\\dal\\dalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AIGeneratedSuitController.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\AIGeneratedSuitController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AIGeneratedSuitController.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\AIGeneratedSuitController.cs",
+              "RelativeToolTip": "Controllers\\AIGeneratedSuitController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T05:41:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALAIGeneratedSuit.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALAIGeneratedSuit.cs",
+              "RelativeDocumentMoniker": "Services\\DAL\\DALAIGeneratedSuit.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALAIGeneratedSuit.cs",
+              "RelativeToolTip": "Services\\DAL\\DALAIGeneratedSuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T05:31:36.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIGeneratedSuitModel.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Models\\AIGeneratedSuitModel.cs",
+              "RelativeDocumentMoniker": "Models\\AIGeneratedSuitModel.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Models\\AIGeneratedSuitModel.cs",
+              "RelativeToolTip": "Models\\AIGeneratedSuitModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T05:30:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SKUMasterController.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\SKUMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SKUMasterController.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\SKUMasterController.cs",
+              "RelativeToolTip": "Controllers\\SKUMasterController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T04:45:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDAlSKUMaster.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\IDAL\\IDAlSKUMaster.cs",
+              "RelativeDocumentMoniker": "Services\\IDAL\\IDAlSKUMaster.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\IDAL\\IDAlSKUMaster.cs",
+              "RelativeToolTip": "Services\\IDAL\\IDAlSKUMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T04:45:14.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SKUMasterModel.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Models\\SKUMasterModel.cs",
+              "RelativeDocumentMoniker": "Models\\SKUMasterModel.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Models\\SKUMasterModel.cs",
+              "RelativeToolTip": "Models\\SKUMasterModel.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T04:42:54.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALSKUMaster.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALSKUMaster.cs",
+              "RelativeDocumentMoniker": "Services\\DAL\\DALSKUMaster.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALSKUMaster.cs",
+              "RelativeToolTip": "Services\\DAL\\DALSKUMaster.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwIAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T11:59:51.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T09:35:07.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:53:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DalServiceHelper.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\CommonHelpers\\DalServiceHelper.cs",
+              "RelativeDocumentMoniker": "CommonHelpers\\DalServiceHelper.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\CommonHelpers\\DalServiceHelper.cs",
+              "RelativeToolTip": "CommonHelpers\\DalServiceHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:46:08.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttachmentDetailsController.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\AttachmentDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttachmentDetailsController.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\AttachmentDetailsController.cs",
+              "RelativeToolTip": "Controllers\\AttachmentDetailsController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwOcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:40:17.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DALClient.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALClient.cs",
+              "RelativeDocumentMoniker": "Services\\DAL\\DALClient.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALClient.cs",
+              "RelativeToolTip": "Services\\DAL\\DALClient.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwIEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:20:01.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DALLeads.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALLeads.cs",
+              "RelativeDocumentMoniker": "Services\\DAL\\DALLeads.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Services\\DAL\\DALLeads.cs",
+              "RelativeToolTip": "Services\\DAL\\DALLeads.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAMwIUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:19:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeadsController.cs",
+              "ToolTip": "D:\\All Cylsys Project\\Arrow Pipes\\Sales-CRM\\SalesCrm\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "Controllers\\LeadsController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAswOAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T05:18:46.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

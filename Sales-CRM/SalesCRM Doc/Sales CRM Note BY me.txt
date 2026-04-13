@@ -1,0 +1,173 @@
+# Project Description
+
+**Project Name:** Arrow Pipes Sales Automation CRM
+
+## Overview
+
+Yeh project Arrow Pipes company ke liye ek **Sales Automation aur CRM system** develop karne ke liye banaya ja raha hai. Is system ka main purpose customer enquiries ko manage karna, product matching karna, quotation generate karna aur sales process ko automate karna hai.
+
+Abhi company ka sales process manual hai jisme email enquiries ko manually process kiya jata hai. Is wajah se quotation banane me 2–3 din lag jate hain aur kabhi-kabhi pricing errors aur follow-up issues bhi ho jate hain.
+
+Is project ka goal hai ki enquiry se lekar quotation aur follow-up tak ka pura process system ke through automate ho jaye aur response time fast ho jaye.
+
+---
+
+# Current Process (Existing System)
+
+Company ka current workflow kuch is tarah hai:
+
+1. Customer enquiry email ke through bhejta hai.
+2. Sales team email ko manually read karti hai.
+3. Product specifications ko samajhkar SKU manually search kiya jata hai.
+4. ERP system me inventory check ki jati hai.
+5. Pricing manually calculate ki jati hai.
+6. Quotation prepare karke customer ko email kiya jata hai.
+7. Sales team manually follow-up karti hai.
+
+Is process me kaafi manual work hota hai aur response time slow hota hai.
+
+---
+
+# New System Objective
+
+New system ka objective hai:
+
+* Customer enquiries ko automatically capture karna
+* Product SKU automatically identify karna
+* Inventory check karna
+* Quotation generate karna
+* Customer follow-ups track karna
+* Sales performance ka dashboard provide karna
+
+Isse enquiry se quotation banane ka time kaafi kam ho jayega aur sales process systematic ho jayega.
+
+---
+
+# Actual Workflow of the System
+
+## Step 1 – Enquiry Capture
+
+Customer enquiry email ke through receive hoti hai.
+System email ko automatically read karke enquiry data store karta hai.
+
+Is stage par system enquiry ka raw text save karta hai jise baad me process kiya jata hai.
+
+---
+
+## Step 2 – Enquiry Processing
+
+System enquiry text ko process karta hai taaki product specifications identify ho sake.
+
+Isme:
+
+* text clean kiya jata hai
+* special characters remove kiye jate hain
+* product dimensions aur keywords identify kiye jate hain
+
+Is process ke baad enquiry text standardized format me convert ho jata hai.
+
+---
+
+## Step 3 – SKU Matching
+
+Processed enquiry text ko company ke product database se match kiya jata hai.
+
+Company ke paas thousands of product SKUs hote hain.
+System enquiry ke keywords aur specifications ko SKU descriptions se match karta hai.
+
+Is step ka output hota hai:
+
+* suggested SKU
+* matching confidence score
+
+Agar confidence high hota hai to system automatically product select kar leta hai.
+Agar confidence medium ho to manual review ke liye bheja jata hai.
+
+---
+
+## Step 4 – Inventory Verification
+
+SKU identify hone ke baad system inventory check karta hai.
+
+Is stage par system verify karta hai:
+
+* product stock available hai ya nahi
+* quantity available hai ya nahi
+* agar stock kam hai to vendor inventory check ki jati hai
+
+Isse sales team ko instantly pata chal jata hai ki order fulfill ho sakta hai ya nahi.
+
+---
+
+## Step 5 – Price Estimation
+
+Inventory confirm hone ke baad system quotation ke liye price estimate karta hai.
+
+Price estimation me kuch factors consider hote hain:
+
+* product type
+* quantity
+* inventory availability
+* vendor pricing
+
+System price calculate karke quotation prepare karta hai.
+
+---
+
+## Step 6 – Quotation Generation
+
+System automatically quotation document generate karta hai jisme include hota hai:
+
+* product details
+* quantity
+* price
+* compliance information
+
+Yeh quotation sales team review karke customer ko send kar sakti hai.
+
+---
+
+## Step 7 – Follow-Up Tracking
+
+Quotation send hone ke baad system follow-up process manage karta hai.
+
+System enquiry status track karta hai:
+
+* quote sent
+* customer response received
+* order confirmed
+* enquiry closed
+
+Agar customer response nahi deta to system reminder send kar sakta hai.
+
+---
+
+## Step 8 – Dashboard and Reporting
+
+System management ko real-time dashboard provide karta hai jisme dikhaya jata hai:
+
+* total enquiries received
+* quotations generated
+* enquiry to order conversion rate
+* response time metrics
+* sales performance reports
+
+Isse management ko sales pipeline clearly dikhai deti hai.
+
+---
+
+# Final Result of the System
+
+Is system ke implement hone ke baad:
+
+* enquiry processing fast ho jayega
+* quotation generation automated ho jayega
+* manual work kam ho jayega
+* errors reduce ho jayenge
+* sales conversion improve ho jayega
+
+Company enquiry ka response kuch ghanto me de payegi jabki pehle 2–3 din lagte the.
+
+---
+
+Agar chaho to main tumhe **iska short 8-line interview explanation** bhi bana ke de sakta hu jo tum **interview me confidently bol sako**.

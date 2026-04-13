@@ -1,0 +1,2 @@
+09-Mar-2026 16:40:06	Procedure or function 'sp_get_client_data_byid' expects parameter '@company_id', which was not supplied.
+09-Mar-2026 16:43:51	Procedure or function 'sp_update_client_data' expects parameter '@last_updated_date', which was not supplied.

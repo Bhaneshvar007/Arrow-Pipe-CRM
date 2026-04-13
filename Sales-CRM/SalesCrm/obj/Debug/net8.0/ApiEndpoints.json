@@ -1,0 +1,1172 @@
+[
+  {
+    "ContainingType": "SalesCrm.Controllers.AIGeneratedSuitController",
+    "Method": "GetAIGeneratedSuitEnquiry",
+    "RelativePath": "api/AIGeneratedSuit/GetAIGeneratedSuitEnquiry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "SalesCrm.Models.AIGeneratedSuitRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "AddAttachment",
+    "RelativePath": "api/AttachmentDetails/AddAttachment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.AttachmentDetailsModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "DeleteAttachment",
+    "RelativePath": "api/AttachmentDetails/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "GetAttachmentById",
+    "RelativePath": "api/AttachmentDetails/GetAttachmentById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "GetAttachmentList",
+    "RelativePath": "api/AttachmentDetails/GetAttachmentList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "GetAttachments",
+    "RelativePath": "api/AttachmentDetails/GetAttachments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "RelevantID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageRef",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "UpdateAttachment",
+    "RelativePath": "api/AttachmentDetails/UpdateAttachment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.AttachmentDetailsModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.AttachmentDetailsController",
+    "Method": "UploadFile",
+    "RelativePath": "api/AttachmentDetails/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageRef",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "relevantId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientController",
+    "Method": "AddCustomer",
+    "RelativePath": "api/Client/AddCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.CustomerDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/Client/DeleteCustomer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/Client/GetCustomer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientController",
+    "Method": "GetCustomerById",
+    "RelativePath": "api/Client/GetCustomerById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientController",
+    "Method": "GetCustomerBySuggestion",
+    "RelativePath": "api/Client/GetCustomerBySuggestion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customername",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/Client/UpdateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.CustomerDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientConfigurationController",
+    "Method": "GetClientForm",
+    "RelativePath": "api/ClientConfiguration/GetClientForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientConfigurationController",
+    "Method": "SaveClientForm",
+    "RelativePath": "api/ClientConfiguration/SaveClientForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.ClientConfigurationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientConfigurationController",
+    "Method": "UpdateClientForm",
+    "RelativePath": "api/ClientConfiguration/UpdateClientForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.ClientConfigurationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCController",
+    "Method": "AddCustomerPOC",
+    "RelativePath": "api/ClientPOC/AddCustomerPOC",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.CustomerPOCDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCController",
+    "Method": "DeleteCustomerPOC",
+    "RelativePath": "api/ClientPOC/DeleteCustomerPOC",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer_poc_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCController",
+    "Method": "GetCustomerPOC",
+    "RelativePath": "api/ClientPOC/GetCustomerPOC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCController",
+    "Method": "GetCustomerPOCById",
+    "RelativePath": "api/ClientPOC/GetCustomerPOCById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customer_poc_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCController",
+    "Method": "UpdateCustomerPOC",
+    "RelativePath": "api/ClientPOC/UpdateCustomerPOC",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.CustomerPOCDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCConfigurationController",
+    "Method": "GetClientPOCForm",
+    "RelativePath": "api/ClientPOCConfiguration/GetClientPOCForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCConfigurationController",
+    "Method": "SaveClientPOCForm",
+    "RelativePath": "api/ClientPOCConfiguration/SaveClientPOCForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.ClientPOCConfigurationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.ClientPOCConfigurationController",
+    "Method": "UpdateClientPOCForm",
+    "RelativePath": "api/ClientPOCConfiguration/UpdateClientPOCForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.ClientPOCConfigurationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownCategoryController",
+    "Method": "AddCategory",
+    "RelativePath": "api/DropDownCategory/AddCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.DropDownCategoryModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownCategoryController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/DropDownCategory/DeleteCategory",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CategoryID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownCategoryController",
+    "Method": "GetCategories",
+    "RelativePath": "api/DropDownCategory/GetCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownCategoryController",
+    "Method": "GetCategoryById",
+    "RelativePath": "api/DropDownCategory/GetCategoryById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownCategoryController",
+    "Method": "UpdateCategory",
+    "RelativePath": "api/DropDownCategory/UpdateCategory",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.DropDownCategoryModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownMasterController",
+    "Method": "AddValue",
+    "RelativePath": "api/DropDownMaster/AddValue",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.DropDownMasterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownMasterController",
+    "Method": "DeleteValue",
+    "RelativePath": "api/DropDownMaster/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DropDown_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownMasterController",
+    "Method": "GetValueById",
+    "RelativePath": "api/DropDownMaster/GetValueById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownMasterController",
+    "Method": "GetValues",
+    "RelativePath": "api/DropDownMaster/GetValues",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dropDownFilterModel",
+        "Type": "SalesCrm.Models.DropDownFilterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownMasterController",
+    "Method": "GetValuesByCetegory",
+    "RelativePath": "api/DropDownMaster/GetValuesByCetegory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.DropDownMasterController",
+    "Method": "UpdateValue",
+    "RelativePath": "api/DropDownMaster/UpdateValue",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.DropDownMasterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.EmailConfigurationsController",
+    "Method": "GetEmailConfigurations",
+    "RelativePath": "api/EmailConfigurations/GetEmailConfigurations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadConfigurationController",
+    "Method": "AddLeadForm",
+    "RelativePath": "api/LeadConfiguration/AddLeadForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.LeadConfigurationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadConfigurationController",
+    "Method": "GetLeadForm",
+    "RelativePath": "api/LeadConfiguration/GetLeadForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestModel",
+        "Type": "SalesCrm.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadConfigurationController",
+    "Method": "UpdateLeadForm",
+    "RelativePath": "api/LeadConfiguration/UpdateLeadForm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.LeadConfigurationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadDataController",
+    "Method": "AddLead",
+    "RelativePath": "api/LeadData/AddLead",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.LeadDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadDataController",
+    "Method": "DeleteLead",
+    "RelativePath": "api/LeadData/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadDataController",
+    "Method": "GetLeads",
+    "RelativePath": "api/LeadData/GetLeads",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SalesCrm.Models.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadDataController",
+    "Method": "GetLeadById",
+    "RelativePath": "api/LeadData/GetLeadsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadDataController",
+    "Method": "UpdateLead",
+    "RelativePath": "api/LeadData/UpdateLead",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.LeadDataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "AddNewEnquiry",
+    "RelativePath": "api/Leads/AddNewEnquiry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.LeadsEnqModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "ConvertEnqToLeadbyEnqIds",
+    "RelativePath": "api/Leads/ConvertEnqToLeadbyEnqIds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SalesCrm.Models.ConvertEnquiryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "DeleteEnqbyEnqIds",
+    "RelativePath": "api/Leads/DeleteEnqbyEnqIds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EnquiryIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "DeleteLeadbyLeadIds",
+    "RelativePath": "api/Leads/DeleteLeadbyLeadIds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LeadIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "GetLeadEnquiry",
+    "RelativePath": "api/Leads/GetAllLeadEnquiry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "source",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "enquiryType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "assignedTo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fromDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "GetAllLeadList",
+    "RelativePath": "api/Leads/GetAllLeadList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "source",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "leadType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "assignedTo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fromDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "GetLeadbyLeadId",
+    "RelativePath": "api/Leads/GetLeadbyLeadId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "GetLeadEnquirybyEnqId",
+    "RelativePath": "api/Leads/GetLeadEnquirybyEnqId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enqId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "UpdateEnquiry",
+    "RelativePath": "api/Leads/UpdateEnquiry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.LeadsEnqModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "UpdateEnquiryList",
+    "RelativePath": "api/Leads/UpdateEnquiryList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "System.Collections.Generic.List\u00601[[SalesCrm.Models.UpdateEnquiryItem, SalesCrm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.LeadsController",
+    "Method": "UpdateLeadList",
+    "RelativePath": "api/Leads/UpdateLeadList",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "System.Collections.Generic.List\u00601[[SalesCrm.Models.UpdateLeadItem, SalesCrm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.MailWorkflowController",
+    "Method": "Add",
+    "RelativePath": "api/MailWorkflow/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.MailWorkflowModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.MailWorkflowController",
+    "Method": "Delete",
+    "RelativePath": "api/MailWorkflow/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.MailWorkflowController",
+    "Method": "Get",
+    "RelativePath": "api/MailWorkflow/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.MailWorkflowController",
+    "Method": "GetById",
+    "RelativePath": "api/MailWorkflow/GetById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.MailWorkflowController",
+    "Method": "Update",
+    "RelativePath": "api/MailWorkflow/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SalesCrm.Models.MailWorkflowModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.SKUMasterController",
+    "Method": "GetSKUDropdownData",
+    "RelativePath": "api/SKUMaster/GetSKUDropdownData",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.SKUMasterController",
+    "Method": "GetSkuMaster",
+    "RelativePath": "api/SKUMaster/GetSkuMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "skuFilterModel",
+        "Type": "SalesCrm.Models.SkuFilterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.SKUMasterController",
+    "Method": "GetSkuSuggestion",
+    "RelativePath": "api/SKUMaster/GetSkuSuggestion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "SalesCrm.Models.SkuSuggestionFilterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesCrm.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SalesCrm.WeatherForecast, SalesCrm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
